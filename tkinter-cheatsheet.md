@@ -10,7 +10,7 @@ Whether you're a beginner or an experienced developer, this resource serves as a
 
 Tkinter is Python's standard way to build Graphical User Interfaces (GUIs), bundled with all standard Python distributions. It serves as an object-oriented layer on top of the Tk toolkit, offering a collection of cross-platform widgets for GUI development.
 
-## Tkinter Cheat Sheet: Crafting Your User Interface
+## Tkinter Cheat Sheet:
 
 ### Main Concepts of Tkinter
 

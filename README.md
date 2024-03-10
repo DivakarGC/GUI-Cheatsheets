@@ -12,6 +12,4 @@ This repository contains random cheatsheets that you can look up to find what yo
 
     (If using VS code or any other such software, just clone it and copy paste as required)
 
-<iframe src="https://api.github.com/markdown/raw?url=https://raw.githubusercontent.com/DivakarGC/GUI-Cheatsheets/main/tkinter-cheatsheet.md"></iframe>
-
-https://github.com/DivakarGC/GUI-Cheatsheets.git
+    You can find the Tkinter cheatsheet [here](https://github.com/DivakarGC/GUI-Cheatsheets/blob/main/tkinter-cheatsheet.md).

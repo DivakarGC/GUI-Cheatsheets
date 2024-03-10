@@ -6,10 +6,10 @@ This repository contains random cheatsheets that you can look up to find what yo
 
 ### 1. Tkinter Cheatsheet
     
-    Contains everything you might need to start out with building an UI using Tkinter.
-
-    This is mostly written as a lookup table in cheatsheet form so you can copy paste from this directly and modify as required
-
-    (If using VS code or any other such software, just clone it and copy paste as required)
-
-    You can find the Tkinter cheatsheet [here](https://github.com/DivakarGC/GUI-Cheatsheets/blob/main/tkinter-cheatsheet.md).
+   Contains everything you might need to start out with building an UI using Tkinter.
+   
+   This comprehensive cheatsheet serves as a quick lookup table, allowing you to easily copy and paste code snippets directly into your projects, modifying them as needed.
+   
+   If you're using software like VS Code or any other similar tools, simply clone this repository and copy-paste the content as required.
+   
+   You can access the Tkinter cheatsheet [here](https://github.com/DivakarGC/GUI-Cheatsheets/blob/main/tkinter-cheatsheet.md).
